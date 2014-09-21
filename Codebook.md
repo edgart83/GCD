@@ -1,4 +1,7 @@
-This are the variables/data used in processing:
+Codebook.md
+===========
+
+These are the variables/data used in processing:
 
 features:
 	contains the 561 measurement statistics names 
